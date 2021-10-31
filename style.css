@@ -1,0 +1,28 @@
+body{
+    background-image:linear-gradient(to bottom left,yellow,lightgreen,green);
+    text-align: center;
+}
+.subhead{
+    color: white ;
+    font-family:sans-serif;
+}
+#head{
+    color: black ;
+    width: 50%;
+    font-size: 20px;
+    font-variant:unset;
+    letter-spacing: 1px;
+}
+#camera,#snap_shot{
+    border: 2px dashed black;
+    height: 350px;
+    width: 400px;
+}
+#snap{
+    background-color: white;
+    border-color: blue;
+}
+#check{
+    background-color: white;
+    border-color: red;
+}
